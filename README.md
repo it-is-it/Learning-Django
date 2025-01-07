@@ -1,1 +1,1 @@
-"# LearningDjango" 
+# LearningDjango
