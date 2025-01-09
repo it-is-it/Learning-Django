@@ -18,3 +18,8 @@
 <img src="https://github.com/preneure/automax_django_web_app/blob/master/previews/Screen%20Shot%202022-08-13%20at%207.37.24%20PM.png" alt="feed example" width="400">
 </div>
 </p>
+
+### Udemy
+<a href=https://www.udemy.com/course/python-django-the-complete-django-web-development-course>Udemy course Link of this app:
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Udemy_logo.svg/2560px-Udemy_logo.svg.png" alt="Udemy Course Link" width="200">
+</a>
