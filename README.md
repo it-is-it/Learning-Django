@@ -20,6 +20,6 @@
 </p>
 
 ### Udemy
-<a href=https://www.udemy.com/course/python-django-the-complete-django-web-development-course>Udemy course Link of this app:
+<a href=https://www.udemy.com/course/python-django-the-complete-django-web-development-course>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Udemy_logo.svg/2560px-Udemy_logo.svg.png" alt="Udemy Course Link" width="200">
 </a>
